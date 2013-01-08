@@ -3,7 +3,7 @@ SublimeJasmine
 
 Run jasmine tests from within sublime text.
 
-XMAS on hold, Check back next year for the completed version.
+Check back for the completed version.
 
 Setup
 -----
